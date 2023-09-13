@@ -1,0 +1,6 @@
+Bill breakdown: 
+mushroom:                 ...$5 
+root:                     ...$9.44 
+inoki mushroom:           ...$1.99 
+tip:                      ...$93
+total:                    ...$109.43
